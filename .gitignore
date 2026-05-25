@@ -1,0 +1,15 @@
+*.gem
+*.rbc
+.bundle/
+.ruby-version
+.ruby-gemset
+Gemfile.lock
+pkg/
+tmp/
+coverage/
+.rspec_status
+.byebug_history
+.DS_Store
+.venv/
+__pycache__/
+*.pyc
