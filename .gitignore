@@ -1,7 +1,6 @@
 *.gem
 *.rbc
 .bundle/
-.ruby-version
 .ruby-gemset
 Gemfile.lock
 pkg/
